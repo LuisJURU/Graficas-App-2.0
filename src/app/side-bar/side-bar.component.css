@@ -1,0 +1,35 @@
+.iconSvg {
+  display: flex;
+  margin: 10px;
+}
+
+.content {
+  position: absolute;
+  height: 88%;
+  left: 31px;
+  top: 23px;
+  background: #92b5fb;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.content .iconSvg:hover {
+  cursor: pointer;
+  border-radius: 10px;
+  background: rgba(11, 41, 100, 0.89);
+}
+
+.toggleSidebar{
+  display: flex;
+  position: absolute;
+  top: 44px;
+  left: 50px;
+  margin: 0 auto;
+
+}
+
+.toggleSidebar:hover{
+  cursor: pointer;
+  background-color: #92b5fb;
+  border-radius: 10px;
+}

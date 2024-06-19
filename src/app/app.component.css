@@ -1,0 +1,11 @@
+.inApp {
+  height: 95vh;
+  width: 98vw;
+  margin: 10px;
+  background: rgba(11, 41, 100, 0.89);
+  border-radius: 10px;
+}
+
+h1 {
+  max-width: 100%;
+}
